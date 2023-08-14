@@ -1,0 +1,1 @@
+Scripts for article on importing data to WEBCON using REST API at blog.lumenn.pl
