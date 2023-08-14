@@ -76,7 +76,7 @@ foreach($row in $results) {
                 value = $sale.Price;
             }
         )
-        $rows.Add(@{cells = $cells})
+        $rows.Add(@{cells = $cells}) > $null
     }
 
     $listItemsBody = @(
